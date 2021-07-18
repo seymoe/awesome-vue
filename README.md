@@ -2282,6 +2282,7 @@ _Layout for the overall / main view_
 - [vue-masonry-wall](https://github.com/fuxingloh/vue-masonry-wall) - A pure vue responsive masonry layout without direct dom manipulation, ssr friendly and lazy loading.
 - [vue-horizontal-list](https://github.com/fuxingloh/vue-horizontal-list) - A pure vue responsive horizontal list layout with ssr support, mobile and touch friendly.
 - [vue-layout-system](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
+- [vue3-waterfall](https://github.com/seymoe/vue3-waterfall) - A waterfall component build with Vue3、Typescript and Vite.
 
 ### Frameworks
 
